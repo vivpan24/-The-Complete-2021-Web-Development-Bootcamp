@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(73, 134, 190);
+}
+hr{
+    border-color: grey;
+    border-width: 10%;
+    width:30%;
+    border-style: none;
+    border-top-style: dotted;
+}
+h1,h3{
+color: aqua;
+}
